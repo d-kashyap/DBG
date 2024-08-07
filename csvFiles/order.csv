@@ -1,0 +1,601 @@
+order_id	order_customer_id	order_total_price	order_date	order_status	order_shipping_address	order_billing_address	order_delivery_date	order_payment_method	order_payment_status	order_payment_date	order_shipping_method	order_shipping_status	order_shipping_date
+e6769dca-e173-4bf2-a482-b1561e88e8b9	979bd066-b16d-406b-8381-c8baaa530e2c	749.74	5/16/2024	finished	"47888 Lewis Squares Apt. 223
+South Steven, ID 09700"	"52010 Lisa Square Suite 421
+Travisville, DE 53019"		amazon_pay	refunded	5/16/2024	gls	pending	5/22/2024
+1c4179f6-4528-4e9e-808f-f266bc4802d6	0badc895-a4ed-40f7-a8ee-49a306ef89ad	507.29	6/10/2024	cancelled	"03760 Melissa Bridge
+Blackstad, UT 18450"	"41270 Jon Circle
+Reyesland, FL 55906"		credit_card	pending	6/10/2024	fedex	pending	6/17/2024
+5081637a-6a50-451c-aaa1-1d9b38b182a7	28cf81d1-de34-47a2-b5b6-660f02be45e1	532.99	5/15/2024	cancelled	"PSC 2675, Box 1180
+APO AA 22380"	"4171 Kimberly Highway
+Lake Kayla, UT 11091"		credit_card	paid	5/15/2024	fedex	shipped	5/16/2024
+2b9f9e30-6cdd-4da0-af37-8fe0303c556f	87203b0c-2654-4fbe-8630-d5b3dff5ea32	108.61	5/22/2024	processing	"69862 Bowman Camp Suite 225
+Port Danielberg, PA 24808"	"321 Rebecca Spur
+Lake Jessicaville, MT 75786"		klarna	pending	5/22/2024	dhl	shipped	5/29/2024
+81e2e61b-c231-4374-b441-800b82152be2	2d383542-57d3-41b2-b478-2cb991088625	911.36	6/23/2024	cancelled	"86297 Daniel Streets Apt. 517
+West Adamton, NC 23503"	"Unit 9942 Box 0457
+DPO AP 90342"		paypal	pending	6/23/2024	gls	shipped	6/29/2024
+df4bc7cc-009f-4032-a0c3-df275646bc78	b85625c6-3d84-4b96-96b2-547e792a5261	275.05	5/23/2024	processing	"7158 Rivera Falls Suite 734
+Port David, MS 57263"	"912 Stone Summit Suite 268
+West Scott, OR 70294"		amazon_pay	paid	5/23/2024	tnt	delivered	5/25/2024
+286dbe0f-941d-4eaa-8692-33986171f86b	0e9f304e-9047-44da-8d11-6555a31ce95e	801.34	7/2/2024	cancelled	"1830 Larry Mission
+New Zachary, LA 21189"	"40655 King Stream Apt. 940
+New Kristen, AZ 17188"		amazon_pay	refunded	7/2/2024	dpd	shipped	7/10/2024
+09dbb3ec-d279-4d83-8467-b5e7641012f4	e5286b34-3416-4528-b3e9-299051c01d54	849.65	6/7/2024	cancelled	"860 Davidson Pass Suite 891
+South Williamhaven, WV 59667"	"76103 Michelle Ferry
+Port Jenniferstad, SC 31502"		paypal	paid	6/7/2024	fedex	delivered	6/8/2024
+71b25260-feb5-4089-9c22-ba85f71dd51d	5d709f2f-2441-4749-b63f-ec3acb0bfe0a	779.48	6/9/2024	cancelled	"89982 Flores Plains
+Morrisbury, IN 29045"	"219 Garner Forge Apt. 674
+Stevenfurt, AR 51862"		bank_transfer	pending	6/9/2024	hermes	pending	6/17/2024
+2a0078d4-5e94-4fba-b0b1-40f0836c3058	ef6364cc-cf08-42d0-8f47-1b91ac52e9e3	273.46	6/13/2024	returned	"361 Mullen Springs Apt. 838
+East Dalemouth, GA 43905"	"897 Conner Stream
+Courtneymouth, MD 51144"		paypal	refunded	6/13/2024	dpd	pending	6/19/2024
+91579587-5afb-4374-9ae2-db711af9ea3c	de331999-e58b-44c0-9014-6a650a8c3aeb	720.64	6/12/2024	cancelled	"133 Martinez Bypass Suite 584
+Port Christopherfort, WI 32889"	"0743 Ramirez Garden
+North Benjaminton, IN 36016"		klarna	pending	6/12/2024	tnt	pending	6/20/2024
+9fbd8a38-2c43-412a-a90e-36198a98d38c	bbbf1126-2f2a-43ba-a5e9-66ae07b712a1	836.69	5/23/2024	cancelled	"183 Rivera Garden Apt. 947
+Port Jackson, ND 34247"	"5799 Hanson Neck Apt. 285
+South Brittany, WY 05123"		paypal	pending	5/23/2024	gls	shipped	5/28/2024
+38835cc2-8cac-4444-9754-65e8951b6fb9	06188148-692b-49e4-9fa2-bfd2122da8d0	586.65	5/26/2024	finished	"36155 Keith Station Suite 065
+Perkinsview, AR 25847"	"0263 Friedman Drives Suite 652
+Castillomouth, MH 59241"		klarna	pending	5/26/2024	dhl	shipped	5/28/2024
+38ce8067-6772-4c9a-9464-01722eaa7123	3d02aa1b-9b30-49e4-ab29-b0f96a9cb2d7	383.48	6/2/2024	processing	"452 Butler Shoals Apt. 201
+West Brian, UT 77518"	"04096 Todd Ramp Suite 345
+Robertburgh, NC 29063"		amazon_pay	paid	6/2/2024	fedex	shipped	6/6/2024
+8bcbeb3d-91a8-415d-8af1-0799548361a0	a685b10b-d9c0-4a6a-80eb-9b6d03fa5f91	710.61	5/31/2024	finished	"610 Yang Court Suite 924
+Darrellshire, LA 45241"	"19985 Ray Manor Apt. 861
+New Derek, AS 61237"		amazon_pay	paid	5/31/2024	ups	delivered	6/1/2024
+5fa7e532-8a58-438d-bbb0-8a034e5165bf	e41fd959-a348-4fcf-a6b4-73bc6fe58b73	255.2	5/18/2024	processing	"0534 Edward Groves
+Port Brandon, SC 60457"	"43979 Jennifer Rapids
+New Joannside, MO 28794"		bank_transfer	refunded	5/18/2024	tnt	delivered	5/19/2024
+caf22f0d-19fe-4a2f-884c-a2bd8a0ead98	b095c666-0b31-418c-80d5-3e936fa8c6b7	380.15	5/29/2024	cancelled	"366 Garcia Underpass
+Romanmouth, NJ 44991"	"2910 Charles Island
+New Virginiahaven, PW 02129"		paypal	pending	5/29/2024	gls	pending	6/4/2024
+64082383-cba5-4b2e-a303-6c4c0272deef	9cd594e5-517c-443d-9c26-bf4a5244969d	500.18	6/29/2024	cancelled	"6183 Edwards Avenue
+Bernardfort, NY 66718"	"03985 Dorsey Mountain
+Maddoxtown, TX 85371"		klarna	refunded	6/29/2024	gls	pending	7/5/2024
+9840202a-7dc0-418a-b814-2433d6a07323	cd2ba399-52dd-4bb4-be9f-3b19525c94c9	947.42	6/23/2024	cancelled	"7014 Alison Spring
+Danielfurt, OR 61709"	"66907 Brian Avenue Apt. 764
+South Claudiaborough, TX 76453"		klarna	refunded	6/23/2024	ups	delivered	6/27/2024
+28b1e24b-41f5-4432-8567-ba4afc40e6a3	7b44f796-0948-471a-8942-d970d46a023a	997.08	5/13/2024	finished	"7634 Jackson Land Suite 694
+Travisview, VT 57701"	"43860 Kelly Loaf Apt. 300
+Heathview, CT 21880"		amazon_pay	pending	5/13/2024	dpd	pending	5/20/2024
+e98e03d9-3578-47a8-ae90-95cc16f449a9	71e07c37-10d9-4c50-b035-1fbb22990527	352.47	5/7/2024	cancelled	"00746 Robinson Cliff
+Huffstad, GA 29157"	"78237 Kelly Circles
+Port Carlbury, MO 49718"		klarna	pending	5/7/2024	tnt	shipped	5/11/2024
+72962f7c-39df-43b2-b5a3-51a65d1e0639	d7d77148-04a1-4d2c-a951-92e2b6b12d19	792.04	5/14/2024	returned	"25153 Rachael Way Suite 098
+East Jeffreyfort, AL 43696"	"937 Gomez Plains Suite 002
+Whitebury, MN 31171"		amazon_pay	pending	5/14/2024	hermes	pending	5/16/2024
+756e6609-2034-45e9-b714-86d22f482d57	b431ff5d-a35e-49ac-8190-68f636efde3a	525.75	6/30/2024	finished	"9485 Bailey Summit Apt. 199
+Jonesville, WI 55647"	"350 Karen Orchard Apt. 494
+North Dawnstad, VT 39641"		paypal	refunded	6/30/2024	fedex	shipped	7/7/2024
+006cddc2-8e4b-4fce-8988-dffe5152d220	f1e2b63e-208a-46f4-84ae-8b1036820419	821.73	6/3/2024	processing	"USS Dean
+FPO AE 46934"	"1071 Curtis Track Suite 837
+Wilsonview, DC 30562"		credit_card	refunded	6/3/2024	dhl	pending	6/5/2024
+e36f2fc4-094f-44cf-b99a-c08598cad44e	71e07c37-10d9-4c50-b035-1fbb22990527	990.48	5/24/2024	processing	"USNV Aguilar
+FPO AP 77924"	"32466 Vanessa Track Suite 440
+Daviesmouth, CT 27106"		paypal	refunded	5/24/2024	amazon	delivered	5/30/2024
+cd76f13d-1986-4416-9e85-bd4c41ac350f	d92a760f-ce2e-4dd5-b923-b12fc4263fb6	934.29	6/26/2024	processing	"92895 Brian Inlet
+Jasonton, TN 84780"	"322 Rhonda Circle
+Melissaland, GA 28517"		amazon_pay	paid	6/26/2024	ups	delivered	6/30/2024
+db6e2700-0687-410b-8128-52e466d5235f	e73325a0-be04-400f-b2ef-dc141957f38a	561.56	6/15/2024	finished	"Unit 9628 Box 4190
+DPO AE 54802"	"7920 Harris Ridges
+Fieldsburgh, KY 31493"		credit_card	refunded	6/15/2024	tnt	delivered	6/21/2024
+843d2b8e-e61e-4c6b-908f-08c3e6f07ad3	46c04e67-6092-4c40-af2d-6a1201ddfbd2	619.12	6/28/2024	finished	"25589 Joseph Lake
+New Justin, UT 71167"	"3892 Miller Stravenue
+South Philipview, MO 74684"		amazon_pay	pending	6/28/2024	hermes	shipped	7/5/2024
+1966a87e-78bf-490b-8086-9af56e8dfc95	237f5080-fd37-4eb7-82ce-22d5f9c42d6f	178.17	5/25/2024	returned	"359 Vanessa Path Suite 240
+Charlesview, DC 73295"	"321 Weeks Point
+North Hannah, MS 98060"		amazon_pay	paid	5/25/2024	ups	delivered	5/31/2024
+dd83758b-c45c-41d0-b83f-3187f61557c8	7be51ce2-dcea-454e-b810-ce7b90a66153	726.77	5/27/2024	cancelled	"798 Little Via
+Ortizbury, NV 81267"	"549 Russell Green Suite 069
+Port Nicole, MA 34696"		klarna	refunded	5/27/2024	gls	shipped	5/28/2024
+9ff98ee3-813d-42e3-ba90-4755057ad19a	4bd171aa-28a7-44d2-8fce-ccb681855d67	302.7	5/31/2024	processing	"0642 Gary Garden
+East Chad, NH 99084"	"8249 Laura Wells
+South Christineside, SC 22293"		bank_transfer	paid	5/31/2024	tnt	pending	6/6/2024
+1d6ac547-350d-4f0b-b07c-4975c0490732	50f8950e-c40a-4615-b2bc-2a391b3d292a	786.63	5/26/2024	finished	"490 Williams Glens
+Port Amber, CO 43115"	"512 Fitzgerald Hill
+Griffithside, NH 39624"		bank_transfer	refunded	5/26/2024	gls	shipped	6/2/2024
+d920896d-7836-452d-a8c9-3a30d0dbcc23	1146d825-3bdf-42e5-ae43-26704b29811f	735.11	6/30/2024	cancelled	"618 Lee Well
+Holmesland, CO 39067"	"7096 Donald Ramp Apt. 800
+Zacharychester, CA 77943"		amazon_pay	pending	6/30/2024	dpd	shipped	7/1/2024
+7765fb2f-4987-49dd-bbf6-5237036cb277	5d368245-eb59-4e5d-8072-bd32b0ade861	431.45	6/4/2024	returned	"04508 Jessica Route
+Lindastad, SD 97089"	"3867 Lin Trail Apt. 453
+Kaneburgh, WA 85877"		paypal	pending	6/4/2024	hermes	shipped	6/8/2024
+6c5a2f42-85b0-4958-985e-2d842629018d	50f8950e-c40a-4615-b2bc-2a391b3d292a	843.56	6/14/2024	cancelled	"7285 Victor Road Suite 669
+Port Wayneland, OK 03722"	"8206 Colleen Land Apt. 229
+Richardsonport, NE 52370"		amazon_pay	refunded	6/14/2024	fedex	pending	6/15/2024
+7fa6fae7-7a2f-4a11-b63c-9ef7fa579bd8	f58631b9-e792-4366-9983-6305cd30c304	652.44	6/21/2024	processing	"504 Schmidt Viaduct
+New Donnaside, MS 52804"	"598 William Rue Suite 849
+South Beverly, WI 55712"		amazon_pay	pending	6/21/2024	tnt	shipped	6/22/2024
+7c6d010f-89e4-45d9-b129-db652bed5d9e	64824a09-109b-47b9-ad41-3c4c7cfd036a	166.69	6/27/2024	returned	"03984 Lindsay Courts Suite 112
+New Johnhaven, DC 94096"	"0984 Michael Hollow Suite 841
+West Erica, UT 14854"		amazon_pay	refunded	6/27/2024	gls	delivered	7/2/2024
+ca898dff-055f-4348-af30-287774467a4f	0c4d012a-8819-47e7-9adb-98c445348306	817.58	6/5/2024	finished	"766 Aaron Plains
+Christophertown, MA 70943"	"Unit 5560 Box 8910
+DPO AA 94256"		bank_transfer	pending	6/5/2024	amazon	delivered	6/9/2024
+52ad5b72-d61e-4d45-9e3f-2fdec2c243c0	9cd594e5-517c-443d-9c26-bf4a5244969d	106.64	6/24/2024	processing	"2545 Crystal Divide
+Josephborough, MA 89975"	"323 Michael Cove Apt. 150
+Reginaview, FM 32012"		amazon_pay	pending	6/24/2024	fedex	delivered	6/30/2024
+8915a9ca-482a-4478-939c-523ffd3b74e2	70192b49-492a-4a31-b500-052282f17461	459.65	6/13/2024	cancelled	"08226 Morgan Fork Suite 215
+Cassidyport, MN 62019"	"9081 Matthew Divide Suite 696
+East Timothy, DE 77043"		credit_card	pending	6/13/2024	amazon	delivered	6/16/2024
+8d8d7c16-d389-4cbc-ba56-727b8dbcc276	e41fd959-a348-4fcf-a6b4-73bc6fe58b73	630.47	5/7/2024	returned	"1027 Christian Coves
+West Larry, DC 95050"	"3029 Kelly Cape
+Michaelbury, GA 45730"		credit_card	pending	5/7/2024	dpd	delivered	5/17/2024
+623c05b3-b13a-4e9b-9148-40c5731da70f	7be51ce2-dcea-454e-b810-ce7b90a66153	479.51	6/28/2024	returned	"Unit 4193 Box 1221
+DPO AA 62589"	"5166 Jenkins Creek
+Port Alexishaven, VA 48134"		amazon_pay	refunded	6/28/2024	amazon	shipped	7/6/2024
+ce458919-1ac7-43dc-affb-6e82b3afa992	a1be9c34-59a1-458e-bb39-0f7edbc4d4ff	73.74	5/19/2024	returned	"60142 Gamble Shoal
+Larashire, TX 64524"	"65890 Holt Parkways
+Rodriguezview, WA 19235"		paypal	refunded	5/19/2024	dpd	delivered	5/20/2024
+a1885a4c-bc04-4e19-8130-5733bcf31eba	b431ff5d-a35e-49ac-8190-68f636efde3a	852.82	6/28/2024	returned	"611 Andrea Ramp Apt. 345
+Port Robertton, MA 23219"	"30245 Hurley Extension
+Petershire, AK 07180"		amazon_pay	pending	6/28/2024	ups	shipped	7/7/2024
+0d163ad3-82cc-48d7-a954-0827d925ddd4	99b727c2-0cb5-42fa-98c5-9664f965b24c	203.1	6/3/2024	processing	"930 Tammy Circles Apt. 967
+North Roseton, AS 94596"	"2314 Nash Springs
+Haydenborough, SC 13369"		bank_transfer	pending	6/3/2024	ups	pending	6/5/2024
+e8580c5c-6db0-4df2-9c1e-068a8f209a32	e6614e72-a0be-4129-842c-36580e69ed0c	944.37	6/1/2024	finished	"9865 William Drive
+Cowanville, ME 02991"	"32047 Roberts Grove
+Lake Margaret, ND 03161"		paypal	refunded	6/1/2024	dhl	pending	6/4/2024
+9d5a1b2b-1443-4e14-8808-ffcdd6dcebd4	d1e5eb0f-d581-4642-8cb0-38b8602de0b0	439.96	5/9/2024	returned	"2583 Smith Roads Suite 740
+Smithmouth, MD 65711"	"98601 Duncan Square Apt. 564
+Lake Derek, WI 32244"		credit_card	refunded	5/9/2024	gls	pending	5/19/2024
+6896fc0f-34f7-4ad2-b142-b380ade4f94b	87332cd4-e4d7-439e-a773-141461dcf535	127.51	5/25/2024	processing	"458 Courtney Burgs
+Lake Davidhaven, MN 19749"	"41882 Martinez Avenue
+Stephenstad, MT 57370"		klarna	refunded	5/25/2024	gls	shipped	5/26/2024
+d32e8110-9c72-4d6f-85b1-daf32afed8ab	2d8d4162-5da0-4822-b808-bbf2316e1d3f	828.41	5/14/2024	cancelled	"633 Barbara Keys
+Grosshaven, KS 23928"	"USCGC Fisher
+FPO AP 16058"		amazon_pay	pending	5/14/2024	tnt	shipped	5/22/2024
+baa91503-a768-4f2e-9aea-90e8f1645411	b095c666-0b31-418c-80d5-3e936fa8c6b7	426.52	6/20/2024	returned	"723 Clark Station Suite 198
+South Andrea, CT 10701"	"8647 Green Camp
+Millertown, VI 46501"		credit_card	pending	6/20/2024	hermes	shipped	6/23/2024
+59d658d8-47d8-423a-aca6-27e76475d0bb	d891db19-d524-45c5-a4f9-4349b473c8d1	291.26	6/24/2024	returned	"01476 Lane Cliffs
+Harmonshire, IL 85557"	"70203 Scott Island
+Justinville, NV 09551"		paypal	paid	6/24/2024	dhl	delivered	7/3/2024
+4510ed80-61aa-4f44-8f32-d1462d28f44d	0d8a32a1-968b-42cb-a8cb-98a6e77924a9	740.47	6/5/2024	processing	"1251 Tara Square
+New Paul, AS 06668"	"85849 Timothy Port Suite 943
+East James, DC 18979"		bank_transfer	pending	6/5/2024	gls	shipped	6/10/2024
+7311389b-3d5f-427f-bf49-c8e5b67d718a	38702d15-998d-4cba-8447-d647c4ea066d	552.34	6/22/2024	cancelled	"Unit 7207 Box 0654
+DPO AP 16223"	"367 Amanda Branch Suite 898
+South Charleston, MN 07669"		amazon_pay	paid	6/22/2024	dpd	shipped	6/30/2024
+88de83e9-d2d1-4a06-9f8e-5b6f222583fa	c6f97bac-54d3-4da9-bbc8-6ca6e80c430a	757.1	6/10/2024	returned	"646 Taylor Tunnel
+Linmouth, AS 89930"	"059 Johnston Pines
+Tonyburgh, PR 12127"		paypal	paid	6/10/2024	tnt	delivered	6/19/2024
+3004f70a-f12a-4447-983d-5781dbd955c5	38702d15-998d-4cba-8447-d647c4ea066d	408.7	5/17/2024	returned	"12881 Johnston Route Apt. 189
+Crystalville, MA 81449"	"912 Lambert Cove Apt. 403
+East Sandra, NH 28728"		credit_card	pending	5/17/2024	fedex	pending	5/21/2024
+396c2ea7-75b0-4624-bb2a-d9c679bd86ab	b5ae96b1-1c47-487b-84c0-fd58c702ee04	98.15	6/25/2024	finished	"37669 Danielle Rapids Apt. 773
+Pattersonton, NC 23718"	"415 Frazier Gardens Suite 139
+West Markbury, AS 85465"		paypal	paid	6/25/2024	gls	shipped	6/26/2024
+53d3802b-9923-49db-891c-e35ea802c179	b431ff5d-a35e-49ac-8190-68f636efde3a	682.77	5/9/2024	finished	"88815 Hudson Roads Apt. 148
+Roseland, MH 11225"	"72967 Jackie Points
+Mcintoshburgh, PW 92993"		paypal	paid	5/9/2024	amazon	shipped	5/10/2024
+1e724e56-d38d-4c9b-8a0f-b88e2c598e36	e41fd959-a348-4fcf-a6b4-73bc6fe58b73	265.32	6/8/2024	finished	"2287 Walton Haven Apt. 327
+Cortezville, CO 47640"	"286 Wendy Estate
+Jeremyland, MI 33446"		bank_transfer	paid	6/8/2024	hermes	delivered	6/17/2024
+50eb820a-9e37-4e06-baa9-5c34a4871d44	87203b0c-2654-4fbe-8630-d5b3dff5ea32	635.14	6/23/2024	cancelled	"12126 John Crest
+North Nathan, VA 72301"	"25566 Bridges Harbors Apt. 097
+South Davidtown, SD 17136"		paypal	refunded	6/23/2024	amazon	shipped	6/28/2024
+3c514684-a3fa-4b25-bdf2-523273ae6bb3	54039ff7-90cc-47ca-8c2e-1d57d98f33f8	185.47	5/24/2024	processing	"48547 Johnson Heights
+North Patrick, VI 59943"	"7807 Lawrence Parks Apt. 695
+Kennethstad, NV 23619"		bank_transfer	pending	5/24/2024	dpd	delivered	5/26/2024
+40e4a670-ca5d-4c39-add3-c2ae8abe7164	c6f97bac-54d3-4da9-bbc8-6ca6e80c430a	388.85	5/29/2024	cancelled	"USS Chen
+FPO AE 50196"	"929 Thomas Grove Apt. 519
+Port Kathleenside, MA 19012"		klarna	refunded	5/29/2024	ups	shipped	6/6/2024
+4bc70639-cbeb-4ab6-b984-3d177dc4204a	b9d63233-019f-4715-9f3d-4161696e5161	441.48	6/12/2024	returned	"762 Wright Groves
+South Charlesport, OK 18604"	"586 Johnson Inlet Suite 446
+Port Ronald, MI 76770"		credit_card	paid	6/12/2024	tnt	delivered	6/22/2024
+898639c1-2640-45f5-8c76-fd6ae0456625	286cf7c4-4257-4dce-82c8-294492713589	924.12	6/22/2024	cancelled	"6440 Kelly Mall
+Amberchester, IL 63227"	"136 Nelson Pike Apt. 766
+New Sergiobury, VT 37578"		paypal	paid	6/22/2024	ups	delivered	6/25/2024
+e136d454-a998-4971-8077-0b3426334922	99b727c2-0cb5-42fa-98c5-9664f965b24c	622.08	5/11/2024	processing	"85384 Eileen Valley
+Contrerasport, DC 96496"	"9425 Velazquez Unions Suite 859
+Hardinview, PA 73392"		paypal	refunded	5/11/2024	ups	pending	5/12/2024
+ec4fce59-164f-401b-8a4b-657f3b2d106a	b5ae96b1-1c47-487b-84c0-fd58c702ee04	209.53	5/12/2024	returned	"12102 John Land Apt. 503
+Emmastad, ID 94877"	"46971 Richmond Loop Apt. 922
+Tranhaven, KS 99835"		credit_card	refunded	5/12/2024	dpd	delivered	5/20/2024
+eb60b537-75ce-4a5e-93e6-c2398a26ff19	6cb5d8f2-5eea-4abe-9696-e59cbee326dc	911.42	5/26/2024	processing	"74015 Craig Stream
+Ellismouth, PR 30369"	"8135 Adrian Walk Apt. 547
+Williamsburgh, MT 84716"		bank_transfer	paid	5/26/2024	tnt	pending	5/28/2024
+bd330cb2-7bce-4482-b605-7504a4b58dad	4af12eca-f300-4a5f-ad33-1bbbcb282ba4	478.89	5/11/2024	finished	"9445 Kathleen Streets
+West Mary, PR 62198"	"61325 Cervantes Camp Apt. 820
+Watsonland, KS 12032"		paypal	paid	5/11/2024	amazon	delivered	5/18/2024
+a68203d4-68f9-4912-a778-cae7ad4b8d99	870b6f10-219a-429d-af1a-28e245d1c358	908.74	5/23/2024	finished	"4877 Rodney Knoll
+Lake Autumnchester, DC 03868"	"6703 Steven Plaza
+Jacobberg, MH 75378"		credit_card	refunded	5/23/2024	tnt	shipped	5/24/2024
+20801af0-4548-4fed-bda7-8c0583394426	8ad99248-63ff-44d6-a493-1fa072bab6b7	577.21	5/28/2024	finished	"701 Lucero Hills Apt. 902
+West Shannon, OK 39684"	"62040 Theresa Row
+Mariahmouth, NC 23753"		paypal	pending	5/28/2024	amazon	shipped	5/31/2024
+8c2babcf-c514-435f-b1f9-3caa5eef918b	b095c666-0b31-418c-80d5-3e936fa8c6b7	724.74	5/17/2024	processing	"9160 Allison Fort Suite 428
+Royview, WI 24912"	"7699 Montgomery Ville
+East Yvonneland, PR 89230"		credit_card	paid	5/17/2024	gls	shipped	5/27/2024
+daa80bd9-62a9-465e-8bb7-af86318063bf	5072509d-f1bd-4b8c-b819-d145fd83e4dc	509.22	6/7/2024	returned	"PSC 9680, Box 1919
+APO AA 04425"	"437 Diaz Common Suite 339
+Port Laurastad, MT 41404"		paypal	pending	6/7/2024	dhl	delivered	6/15/2024
+157b7a8d-0256-4dbf-90f5-48ce65216b8b	f58631b9-e792-4366-9983-6305cd30c304	455.56	6/13/2024	processing	"5788 Sharon Ports
+Thompsonborough, MN 94855"	"064 Dominic Way
+East Robertmouth, NJ 54551"		klarna	pending	6/13/2024	gls	shipped	6/18/2024
+de46d4ab-4825-47ec-90f2-200fb2edc43d	d92a760f-ce2e-4dd5-b923-b12fc4263fb6	629.17	6/10/2024	processing	"1508 Howell Burgs Apt. 395
+Port Michael, VA 35054"	"7783 Marc Landing
+South Melissaland, NM 23851"		amazon_pay	paid	6/10/2024	amazon	shipped	6/11/2024
+cde4eb91-f0e9-4f08-9c54-0310ec2a1136	5d709f2f-2441-4749-b63f-ec3acb0bfe0a	969.06	5/18/2024	returned	"36526 Christine Landing
+North John, VI 20048"	"329 Mcintyre Camp Apt. 359
+Lake Shelbyport, VA 92087"		paypal	paid	5/18/2024	tnt	shipped	5/27/2024
+eb07c80d-57dc-47f3-9583-dcdd1cc7a601	b9d63233-019f-4715-9f3d-4161696e5161	821.52	7/2/2024	finished	"38955 Grace Streets
+West Lisa, AR 93384"	"07252 Patricia Mall
+West Steve, MI 66849"		credit_card	paid	7/2/2024	gls	shipped	7/3/2024
+f910955b-1ecb-419d-a24d-fbbed0df02e3	d5f2a5c8-71fc-468c-8876-208a424d7583	217.73	7/2/2024	cancelled	"5030 Davis Square Suite 686
+Charlesfort, MI 48394"	"1538 Hill Camp Apt. 761
+North Isaiahport, GA 09976"		amazon_pay	pending	7/2/2024	dhl	shipped	7/12/2024
+a4207d4d-8630-454b-81fd-8568a084b131	64824a09-109b-47b9-ad41-3c4c7cfd036a	467.76	6/27/2024	finished	"0287 West Plains Suite 473
+Connieview, PR 34655"	"93939 Munoz Streets
+Johnsonside, MA 53373"		paypal	paid	6/27/2024	dpd	delivered	7/6/2024
+9447e12c-aa76-4118-a0ed-ef458b9453b0	b095c666-0b31-418c-80d5-3e936fa8c6b7	830.8	6/28/2024	returned	"8201 Sandra Meadow
+Robinsonville, AR 74273"	"804 Tina Streets Apt. 237
+South Jeffrey, CT 85273"		bank_transfer	refunded	6/28/2024	tnt	pending	7/1/2024
+f1c0acf5-3402-46b9-acb2-e73519932142	65b2a89c-0726-4589-9e4e-2ee11d400497	665.53	5/14/2024	finished	"45829 Watson Cliff
+Haleyport, PW 00662"	"Unit 5089 Box 0741
+DPO AP 54861"		bank_transfer	refunded	5/14/2024	fedex	shipped	5/24/2024
+52d14843-76fb-4733-81ab-4ed674bf0aa3	5717520b-561e-4797-9d77-450f13fc6f72	209.93	5/10/2024	finished	"094 Alejandro Stravenue Suite 398
+West Oliviaberg, MH 79466"	"1582 Robert View Apt. 542
+Grahamport, SC 79096"		paypal	pending	5/10/2024	amazon	delivered	5/16/2024
+6056a490-af57-47f7-8130-bea0b737badd	870b6f10-219a-429d-af1a-28e245d1c358	374.99	6/24/2024	returned	"0353 Herman Trace Apt. 851
+Harrisside, DE 36221"	"PSC 8496, Box 3962
+APO AP 93701"		credit_card	refunded	6/24/2024	dpd	delivered	6/27/2024
+9519b78f-3459-427c-8e6f-ba03ac11884e	0d2ff175-502f-4e57-9448-4bf8a083bffc	81.85	6/21/2024	cancelled	"3665 Bell Club Suite 482
+Jasonview, ME 55632"	"PSC 3478, Box 7614
+APO AP 87922"		paypal	paid	6/21/2024	ups	shipped	6/26/2024
+2e8fea13-29e8-47e4-9aa3-df5d6a35cdbf	de331999-e58b-44c0-9014-6a650a8c3aeb	556.5	6/2/2024	processing	"0595 Tyler Knoll Apt. 239
+Rachelburgh, NV 21825"	"74053 Crystal Cove Apt. 365
+North Ralph, VT 29754"		amazon_pay	refunded	6/2/2024	fedex	delivered	6/12/2024
+e640ba7f-67c1-4d8c-bc9d-33b2e029d68b	54039ff7-90cc-47ca-8c2e-1d57d98f33f8	121.01	6/14/2024	cancelled	"839 Willis Parks
+North Ericberg, LA 70101"	"7573 Kimberly Manors Apt. 407
+Haynesshire, NY 37134"		bank_transfer	paid	6/14/2024	amazon	pending	6/22/2024
+e5ebdbf5-9a0a-4e8b-99be-a5131928411d	6cb5d8f2-5eea-4abe-9696-e59cbee326dc	222.08	6/25/2024	cancelled	"7314 Martin Mount
+North Jenniferfurt, FM 50561"	"95661 Lauren Pike
+South Pamelaton, FL 70869"		klarna	pending	6/25/2024	dhl	shipped	6/30/2024
+c55891d1-8378-46c2-ac53-53331fea61fa	aade8f84-5351-4003-ba02-d5af784f4384	762.73	6/18/2024	processing	"0623 Elizabeth Island
+North Jacob, VI 62996"	"095 Marvin Stravenue Apt. 277
+Andersonport, AK 23513"		klarna	refunded	6/18/2024	fedex	shipped	6/23/2024
+fda97ccd-e081-4249-9873-e344b689f32f	d92a760f-ce2e-4dd5-b923-b12fc4263fb6	274.4	6/14/2024	returned	"USNS Sanchez
+FPO AE 56025"	"900 Wade Tunnel
+Espinozaburgh, TX 59575"		amazon_pay	pending	6/14/2024	amazon	delivered	6/19/2024
+9b02796c-b973-477f-9a30-3462c69e0df7	6ab4d9e9-87f4-4a90-ae73-ecfdddf09412	740.56	7/3/2024	returned	"41344 Kevin Plain
+Acostafurt, OK 05977"	"0444 Joseph Courts Apt. 510
+Rogermouth, LA 86995"		klarna	paid	7/3/2024	gls	shipped	7/7/2024
+0ad53a37-40c9-4434-b91a-e862a3790a21	318de0ba-24db-4117-895c-21446d1606d4	583.94	6/24/2024	processing	"45366 Carolyn Fork Suite 654
+Reyestown, IA 48678"	"PSC 1991, Box 5633
+APO AP 21270"		klarna	pending	6/24/2024	gls	shipped	6/27/2024
+9c6e3568-c1b4-47bd-bcfa-d11c8f9ee152	979bd066-b16d-406b-8381-c8baaa530e2c	412.11	5/30/2024	finished	"8723 Miller Knolls Apt. 613
+Holmesstad, AZ 96329"	"679 James Manor Suite 626
+Zoeville, WV 28977"		credit_card	paid	5/30/2024	tnt	delivered	6/6/2024
+0f8f27fc-0f2b-4f81-b342-8a19a4edd637	9f186c15-dc4a-482f-892b-05a7651ecdda	521.87	5/11/2024	processing	"925 Jeffrey Plains Suite 064
+Bradleychester, IA 50260"	"4069 Jason Mission
+South Michaelborough, SD 86047"		bank_transfer	paid	5/11/2024	dpd	pending	5/19/2024
+c7ab6870-79d1-4b03-82f2-28d83e3c7db8	cd2ba399-52dd-4bb4-be9f-3b19525c94c9	772.1	7/2/2024	returned	"2669 Edwards Drives
+Jessicaville, CO 56921"	"623 Jesse Glens
+North Kathy, OR 34077"		bank_transfer	paid	7/2/2024	fedex	pending	7/6/2024
+78c4c57f-17e3-4f45-8da0-57429dbeb9e6	5d368245-eb59-4e5d-8072-bd32b0ade861	417.64	5/24/2024	returned	"286 John Walk Suite 484
+North Emily, PW 28187"	"1074 Howard Corners
+North Amberfurt, ND 93044"		paypal	paid	5/24/2024	tnt	delivered	5/30/2024
+45779f65-0e8c-476c-b5a1-bf43413cb3b0	e41fd959-a348-4fcf-a6b4-73bc6fe58b73	750.08	6/18/2024	returned	"99060 Stevenson Orchard Suite 101
+West Jon, NC 10089"	"Unit 3135 Box 5918
+DPO AE 97776"		bank_transfer	paid	6/18/2024	gls	delivered	6/21/2024
+46c97c4a-af1f-43f1-8190-8ea559d92395	5d368245-eb59-4e5d-8072-bd32b0ade861	668.81	5/13/2024	processing	"98216 Sylvia Prairie
+Lake Jeffrey, AZ 93120"	"Unit 7622 Box 9509
+DPO AA 58219"		paypal	refunded	5/13/2024	gls	shipped	5/16/2024
+f12b5432-6014-46a3-b543-20ff0901b820	9cd594e5-517c-443d-9c26-bf4a5244969d	264.32	6/16/2024	finished	"USS Adams
+FPO AP 63315"	"07947 Harris Alley
+Dawnview, SD 33139"		credit_card	paid	6/16/2024	fedex	delivered	6/25/2024
+61a90000-d594-43f4-ad5e-ce000ce0ec0a	0d8a32a1-968b-42cb-a8cb-98a6e77924a9	180.34	5/19/2024	processing	"399 Taylor Parkways Apt. 526
+West Jeffreyville, VI 93216"	"86878 Andrea Green Apt. 928
+North Ashley, FM 89062"		paypal	refunded	5/19/2024	ups	pending	5/27/2024
+1e05d1dc-2c9f-4ecb-a955-dfa1fab4937a	f1e2b63e-208a-46f4-84ae-8b1036820419	178.12	5/27/2024	cancelled	"985 Thomas Islands
+Jeffreystad, VI 13988"	"52466 Hodges Forges
+Jillianmouth, AZ 13808"		klarna	paid	5/27/2024	amazon	pending	5/30/2024
+4103f6ce-2b12-451c-b4c5-2bdf1b95b46f	38702d15-998d-4cba-8447-d647c4ea066d	148.48	5/22/2024	cancelled	"819 Hopkins Keys
+North David, VT 09001"	"USCGC Downs
+FPO AA 35050"		credit_card	paid	5/22/2024	fedex	pending	5/26/2024
+6c962787-ce22-4e0b-89ce-7cf3c805432d	f5d34ccb-0c77-4a83-8456-e256b42f65aa	667.76	5/15/2024	returned	"3317 Hopkins Hills
+Richardland, CO 57762"	"4356 John Skyway Apt. 013
+Whitemouth, AL 76406"		credit_card	paid	5/15/2024	dhl	shipped	5/18/2024
+b0ccb9de-ad0e-43dd-ac33-1a5e51896714	f1e2b63e-208a-46f4-84ae-8b1036820419	817.74	6/21/2024	finished	"95173 Smith Expressway Suite 380
+South Morganville, AL 99676"	"470 Love Skyway
+Conniefort, OR 38396"		credit_card	paid	6/21/2024	dhl	pending	6/22/2024
+d2eccc44-e54a-4c83-abe8-ac587e0b39e8	bc546cc4-d03c-4638-9018-d0517180e0e1	754.61	6/10/2024	cancelled	"9860 Barrett Circle
+Jaimebury, NM 96272"	"9689 Timothy Meadow
+West Eric, VI 07187"		credit_card	paid	6/10/2024	dpd	pending	6/14/2024
+bd433c66-df23-44d7-8a6f-64a2f3a11990	237f5080-fd37-4eb7-82ce-22d5f9c42d6f	649.53	6/8/2024	returned	"757 Hall Throughway Suite 126
+Jensenbury, GU 58080"	"84887 Johnson Centers Apt. 975
+Lake Cindy, UT 43830"		credit_card	paid	6/8/2024	tnt	shipped	6/14/2024
+e11eb426-0e80-4b92-a8b4-af39d153c446	0e9f304e-9047-44da-8d11-6555a31ce95e	154.9	6/25/2024	finished	"039 Robertson Roads
+Melanieport, TN 73095"	"458 Carter Port Suite 603
+New Johnside, WA 91808"		bank_transfer	pending	6/25/2024	hermes	shipped	7/1/2024
+5309f6ba-8427-498a-a8ed-0341dd5b62ee	06188148-692b-49e4-9fa2-bfd2122da8d0	268.02	6/26/2024	finished	"8701 Kelsey Field
+Lake Jason, NJ 48029"	"086 Welch Springs
+North Amy, IN 39271"		credit_card	paid	6/26/2024	dhl	pending	7/2/2024
+ecc2cd98-817f-4898-87df-1b82cdd49f05	d5f2a5c8-71fc-468c-8876-208a424d7583	359.82	5/27/2024	finished	"6095 John Stravenue Apt. 076
+Port Morganland, WY 97606"	"28475 Hunter Hills Apt. 102
+Angelastad, VT 45351"		bank_transfer	refunded	5/27/2024	dpd	delivered	6/2/2024
+a93988f4-5b0b-4f25-94c9-3eaa90302f84	bc546cc4-d03c-4638-9018-d0517180e0e1	802.85	6/14/2024	cancelled	"35873 Rodriguez Wells Suite 356
+Kevinview, MP 89998"	"5150 Nichols Shores
+South Scott, ID 12108"		paypal	pending	6/14/2024	tnt	delivered	6/15/2024
+890fea31-82de-4e95-8866-3a4334914ff5	bc546cc4-d03c-4638-9018-d0517180e0e1	534.56	5/15/2024	returned	"12136 Ashley Union
+Lake Garrett, NE 09976"	"86000 Roy Bridge
+Laurafurt, SD 04665"		paypal	refunded	5/15/2024	tnt	shipped	5/16/2024
+f6861722-0034-4551-980f-c62b31c5bef2	87203b0c-2654-4fbe-8630-d5b3dff5ea32	992.23	5/24/2024	cancelled	"3320 Maxwell Trail
+New Marymouth, IN 18700"	"PSC 8444, Box 3097
+APO AE 07892"		paypal	paid	5/24/2024	dpd	delivered	5/28/2024
+97df7b48-25b2-458a-beb3-2f7ebccc0016	0d8a32a1-968b-42cb-a8cb-98a6e77924a9	953.83	6/12/2024	finished	"9347 Perry Underpass
+South Patrickmouth, MN 99949"	"773 Kayla Trail Suite 424
+Lake Christopherhaven, IN 24339"		credit_card	paid	6/12/2024	dhl	delivered	6/16/2024
+9e2ee18d-65a5-4803-9b1d-ff2abd59fdb7	bfed79e0-818f-4911-a6b8-b1748796280b	655.24	6/17/2024	finished	"632 Wayne Forge Apt. 075
+North Colin, FL 23119"	"809 Lindsey Ramp Suite 176
+Josephside, GA 10466"		credit_card	refunded	6/17/2024	tnt	shipped	6/19/2024
+4986997c-01a2-48c0-85ec-bd7597a4f793	5c253278-ec7b-4d02-8090-0a5421acb2bf	232.92	6/25/2024	processing	"5952 Edwards Centers Apt. 161
+Port Kristen, MA 40986"	"9698 Haynes Islands
+West Brett, KS 99042"		klarna	refunded	6/25/2024	gls	pending	7/5/2024
+6ead9c0f-044a-4124-96ef-6f9915f42cd5	a8575a38-0605-4e71-885a-ea6f4c994bac	241.23	6/25/2024	finished	"5075 Kathryn Walk Apt. 816
+Kathleenshire, PW 32580"	"1148 Davis Isle
+Parkerport, KY 33735"		paypal	refunded	6/25/2024	gls	pending	6/26/2024
+c962057c-3450-4494-a201-2ed6c880fc53	02848bd3-95c2-4075-8415-16c7e125ac0b	352.79	6/7/2024	finished	"365 Donna Mountain
+Greenbury, ME 02519"	"85307 Dunn Avenue Apt. 505
+Rochatown, MA 77620"		paypal	paid	6/7/2024	gls	shipped	6/15/2024
+433b7047-5844-4c81-9396-b6d92a785a83	0de21e49-5339-46b8-bac6-62b6bf43e63d	688.3	5/13/2024	finished	"2157 Kelly Island
+Collinshaven, KS 28782"	"PSC 1177, Box 4371
+APO AA 17633"		bank_transfer	refunded	5/13/2024	hermes	shipped	5/20/2024
+446fd082-3223-45ca-b291-86e6ae1236fd	a685b10b-d9c0-4a6a-80eb-9b6d03fa5f91	484.54	7/1/2024	processing	"79196 Lori Court Apt. 931
+Loganbury, VA 24667"	"90619 Jesse Roads
+South Thomas, UT 41607"		klarna	pending	7/1/2024	gls	delivered	7/3/2024
+a1c954c0-863e-43b9-bafd-4502aca1e39f	b85625c6-3d84-4b96-96b2-547e792a5261	72.14	6/5/2024	processing	"430 Anthony Row Suite 423
+Davisport, RI 34471"	"559 Michael Glens Apt. 393
+Rodriguezview, LA 91401"		bank_transfer	pending	6/5/2024	dpd	pending	6/7/2024
+9f77bafe-cfe2-40d6-8659-b23d6aa33be9	f5d34ccb-0c77-4a83-8456-e256b42f65aa	728.8	6/16/2024	returned	"8565 Leblanc Causeway
+West Virginiaborough, PA 03176"	"1516 Quinn Pike
+South Cameron, NJ 82818"		bank_transfer	paid	6/16/2024	amazon	delivered	6/19/2024
+21520f98-2ba8-4f38-9c8f-0d0a852f10df	3dceb5aa-f043-4906-a2da-24168f46522c	766.39	6/9/2024	cancelled	"44222 David Parkways Apt. 668
+Lake Margaretview, MD 43104"	"9350 Peter Track
+North Christopher, AZ 18452"		bank_transfer	refunded	6/9/2024	fedex	pending	6/15/2024
+9dbcb29b-6464-4ebf-90d4-d78f041e4053	a1be9c34-59a1-458e-bb39-0f7edbc4d4ff	458.8	6/24/2024	cancelled	"95859 Estrada Islands
+Raybury, HI 08674"	"12525 Tina Plains
+Edwardsshire, OH 22665"		amazon_pay	refunded	6/24/2024	fedex	delivered	6/29/2024
+c8c97371-0cbf-4b03-a7c1-07a263e91ead	1146d825-3bdf-42e5-ae43-26704b29811f	286.51	5/17/2024	returned	"257 Munoz Station Suite 895
+Wolfeport, WY 98306"	"9248 Ramirez Neck Suite 312
+Port Melaniemouth, RI 72544"		paypal	paid	5/17/2024	tnt	pending	5/27/2024
+07bccc32-b19b-4e63-a03f-22c1c6675a25	e73325a0-be04-400f-b2ef-dc141957f38a	199.54	6/15/2024	processing	"257 Kevin Bridge
+Stephaniemouth, OR 49099"	"USNV Bell
+FPO AA 83520"		credit_card	pending	6/15/2024	gls	delivered	6/25/2024
+5248861f-d222-489d-9d3f-4ad9d06e6b5c	f5d34ccb-0c77-4a83-8456-e256b42f65aa	676.15	5/10/2024	processing	"238 Barber Burgs Suite 609
+West Timothystad, ME 25631"	"11979 Ali Locks
+Port Matthew, NM 25600"		amazon_pay	paid	5/10/2024	fedex	delivered	5/15/2024
+ca9358bf-1f17-436c-9da2-847aee0b3363	fd89de14-ec94-4a55-bef5-9b93f2b6d626	784.43	6/18/2024	cancelled	"29104 Paula Tunnel
+Maddoxfort, SD 34130"	"0148 Sheena Camp Suite 539
+Julieborough, MI 47710"		paypal	refunded	6/18/2024	fedex	shipped	6/28/2024
+ed00f658-50b9-4aca-882b-20f99c6503b7	a28e872a-851b-45a0-bbe3-f4b3ac879d9f	331.29	6/19/2024	returned	"728 Hopkins River Apt. 189
+Briggsside, VA 92605"	"519 Mcclure Fort
+Port Michael, KS 10667"		credit_card	paid	6/19/2024	gls	delivered	6/21/2024
+a86d7e7c-3612-4168-b881-56ace0ee52f0	d5f2a5c8-71fc-468c-8876-208a424d7583	345.83	7/2/2024	cancelled	"786 Dana Valley Apt. 612
+Lake Travisbury, PA 63957"	"759 Murray Heights Suite 071
+South Marciaberg, IN 47014"		paypal	paid	7/2/2024	tnt	delivered	7/3/2024
+4abcbe95-435b-4810-8ede-405cf9c99a46	be329abb-72c0-49a9-9689-db7296775433	121.11	6/25/2024	returned	"PSC 6831, Box 9516
+APO AP 95375"	"614 Susan Ways
+Josephshire, ID 35902"		paypal	paid	6/25/2024	gls	pending	7/5/2024
+4e098485-a411-4745-b684-aa4970601993	aade8f84-5351-4003-ba02-d5af784f4384	348.64	6/5/2024	returned	"2871 Richard Brook Suite 001
+Mooneyview, NE 38589"	"2058 Walter Circles
+South Christopherfort, NM 51841"		credit_card	pending	6/5/2024	amazon	delivered	6/8/2024
+9b9ce4d1-61a4-4002-97c6-3cafe388635e	c6f97bac-54d3-4da9-bbc8-6ca6e80c430a	729.04	7/4/2024	processing	"147 Elizabeth Knoll Suite 576
+South Gary, VA 82911"	"7136 Wesley Turnpike Suite 118
+Guzmanton, AZ 82011"		bank_transfer	paid	7/4/2024	dhl	shipped	7/9/2024
+968d2464-d716-4af2-9524-9741b0a7d47b	c488466d-212f-4e7e-85d2-1ef0d0fc2484	313.76	5/30/2024	finished	"70031 Nicole Ferry Suite 960
+Port Justinstad, FL 00694"	"273 Burke Underpass
+Reneehaven, HI 42967"		paypal	paid	5/30/2024	ups	pending	6/1/2024
+e0a5dbc9-8686-45f1-97ca-74502e60a75d	a1be9c34-59a1-458e-bb39-0f7edbc4d4ff	171.95	6/22/2024	processing	"6721 Hopkins Forge Suite 044
+Port Alyssaborough, GA 71055"	"USNS Phillips
+FPO AE 79261"		credit_card	paid	6/22/2024	tnt	delivered	6/25/2024
+f9bf6592-58d8-49d2-a9ef-8c0486667b75	b9d63233-019f-4715-9f3d-4161696e5161	586.18	6/6/2024	processing	"595 Emily Corner Suite 558
+Rayhaven, TX 62275"	"761 Michele Gateway
+Port Sandy, GU 42456"		credit_card	refunded	6/6/2024	fedex	delivered	6/8/2024
+5c3ab22c-0fb7-48e0-8a02-3843b79d7d85	c488466d-212f-4e7e-85d2-1ef0d0fc2484	777	5/6/2024	returned	"5222 Vaughn Knolls Apt. 780
+Port Angelaland, MH 38768"	"967 Brown Valleys
+West Megan, ND 50962"		amazon_pay	refunded	5/6/2024	gls	shipped	5/14/2024
+f502241c-3eb8-4e3f-9d9d-936b3be959a2	1146d825-3bdf-42e5-ae43-26704b29811f	287.54	5/27/2024	returned	"462 Rice Cove Apt. 229
+Port Gary, KS 76103"	"4196 Sarah Ports
+North Cynthia, AR 70627"		paypal	refunded	5/27/2024	ups	delivered	6/2/2024
+955b34a3-1f2b-4c76-80fb-d18a6466f16a	aade8f84-5351-4003-ba02-d5af784f4384	404.38	6/20/2024	processing	"68387 Michael Unions Apt. 552
+Williamland, FL 40432"	"52591 Orozco Loop Suite 036
+Edwardschester, KS 76424"		paypal	refunded	6/20/2024	gls	delivered	6/28/2024
+a7f975ed-726e-4123-b741-0935395ae99e	a1be9c34-59a1-458e-bb39-0f7edbc4d4ff	143.64	5/13/2024	processing	"002 Watson Groves
+East Joseph, MS 64572"	"2902 Randall Square
+Wendyfort, SD 13849"		credit_card	paid	5/13/2024	dpd	delivered	5/16/2024
+a17360a0-999c-4e53-97e8-89635999f11d	7b44f796-0948-471a-8942-d970d46a023a	391.93	5/8/2024	finished	"838 Callahan Fall
+Port Audrey, IN 86588"	"130 Carson Creek
+Robinsonhaven, ND 73013"		klarna	paid	5/8/2024	dpd	delivered	5/18/2024
+ef51df5b-d2e7-416d-9f24-ab59b3f9e57e	5072509d-f1bd-4b8c-b819-d145fd83e4dc	502.46	5/6/2024	cancelled	"297 Jesse Branch Apt. 434
+Smithchester, WA 25151"	"943 Mark Key Apt. 729
+Peterberg, PA 08763"		klarna	refunded	5/6/2024	hermes	pending	5/13/2024
+cfd40512-7565-4f24-a6a2-1def8573c643	0c4d012a-8819-47e7-9adb-98c445348306	754.09	5/26/2024	cancelled	"USCGC Moore
+FPO AP 05210"	"24505 Williamson Brook
+West Brianside, MI 24716"		credit_card	pending	5/26/2024	fedex	pending	5/31/2024
+5b30f7ee-e91f-4aed-9ff9-ffb838c20792	2d383542-57d3-41b2-b478-2cb991088625	881.97	5/27/2024	processing	"4909 Gregory Throughway Apt. 910
+Josephland, RI 78195"	"4646 Mcguire Causeway Apt. 366
+Lewischester, AS 36147"		amazon_pay	pending	5/27/2024	dhl	delivered	6/2/2024
+cd8db44f-80a2-44dc-be4a-bda384528d60	870b6f10-219a-429d-af1a-28e245d1c358	610.38	7/2/2024	cancelled	"86759 Robert Hollow
+South Ryanville, ND 64214"	"USNV Dunlap
+FPO AA 95636"		amazon_pay	pending	7/2/2024	dpd	delivered	7/7/2024
+ad18ad86-4162-4483-b98d-b90586e13132	318de0ba-24db-4117-895c-21446d1606d4	104.3	5/13/2024	processing	"3719 Chase Forge Suite 792
+West Allen, CA 43232"	"3697 Reyes Street Suite 742
+East Christine, SC 13566"		klarna	refunded	5/13/2024	amazon	delivered	5/23/2024
+db5abba9-aa39-4ea3-9e25-86c5f742390d	5d709f2f-2441-4749-b63f-ec3acb0bfe0a	787.76	6/28/2024	finished	"16604 Kayla Viaduct Apt. 833
+Myersland, AR 86387"	"7211 Pace Courts
+Angelaton, NH 29354"		bank_transfer	refunded	6/28/2024	amazon	delivered	7/8/2024
+c267dcf3-4fd3-4a11-b8c2-88a1a384c5eb	2d383542-57d3-41b2-b478-2cb991088625	425.62	5/25/2024	cancelled	"835 Susan Groves
+New Davidtown, PA 55537"	"3440 Brown Landing
+Rosalesshire, NM 96858"		amazon_pay	paid	5/25/2024	hermes	pending	5/31/2024
+40689673-9652-43f0-868b-6d73da6579da	06188148-692b-49e4-9fa2-bfd2122da8d0	53.35	6/22/2024	cancelled	"73671 Brian Turnpike Apt. 355
+Skinnerbury, OH 92269"	"60116 Cynthia Summit
+Lake Rebecca, TN 30822"		amazon_pay	refunded	6/22/2024	fedex	pending	6/28/2024
+824138dc-55e5-4da0-afd1-cb47342e1a0f	5d368245-eb59-4e5d-8072-bd32b0ade861	495.3	6/13/2024	returned	"09844 Peter Trafficway Apt. 061
+Margaretstad, NC 83267"	"9405 Vega Springs Apt. 327
+Khanfurt, IN 03888"		amazon_pay	paid	6/13/2024	dpd	shipped	6/23/2024
+b78e0e66-90b0-4494-9ae3-264f8a53bc08	dfb5d7ad-dc67-408b-8970-b03ee2289505	401.34	6/9/2024	cancelled	"840 Riley Station
+Wardview, LA 82701"	"133 Griffith Meadows Suite 284
+Port Crystal, KS 53585"		paypal	pending	6/9/2024	dpd	delivered	6/12/2024
+c18ef656-8d68-4e75-bedb-12d28407f6d7	7be51ce2-dcea-454e-b810-ce7b90a66153	183.99	6/10/2024	finished	"USS Schwartz
+FPO AE 16569"	"3281 Howard Creek Apt. 195
+West Norma, OK 20566"		paypal	pending	6/10/2024	gls	pending	6/20/2024
+72ca1215-b605-4bd9-b8b8-6ddd15d375c8	50f8950e-c40a-4615-b2bc-2a391b3d292a	840.99	5/21/2024	processing	"PSC 4634, Box 9102
+APO AP 31255"	"3353 Stephen Mountains
+Lake Jonathanbury, HI 12600"		credit_card	refunded	5/21/2024	ups	pending	5/24/2024
+834a0e20-a3de-4e86-9a4e-eb55d759947c	d7d77148-04a1-4d2c-a951-92e2b6b12d19	192.45	6/5/2024	finished	"337 Zachary Valley Apt. 103
+Lopezmouth, WY 69519"	"27859 Nicholas Field Apt. 873
+Andrewsville, NM 06330"		bank_transfer	paid	6/5/2024	fedex	delivered	6/6/2024
+b5174c9f-9d98-4fe3-8772-7437d09a09ce	5c253278-ec7b-4d02-8090-0a5421acb2bf	213.3	6/8/2024	finished	"79160 White Mills
+Phillipstown, OR 71381"	"21235 Linda Forges
+New Allisonchester, MD 03379"		paypal	pending	6/8/2024	fedex	shipped	6/10/2024
+e5599e4a-ec83-4a9f-9a3a-cdc30a3caf39	5d709f2f-2441-4749-b63f-ec3acb0bfe0a	397.53	5/29/2024	returned	"937 Spencer Greens
+Melvinview, NH 02487"	"07412 Danielle Inlet
+Lorifort, ID 95044"		bank_transfer	pending	5/29/2024	fedex	shipped	6/3/2024
+2e9edb0a-e077-476a-af28-6e3d57c25384	02848bd3-95c2-4075-8415-16c7e125ac0b	822.64	5/10/2024	processing	"96601 Michael Roads
+Harrisonchester, UT 20290"	"021 Klein Drives Suite 049
+South Jenna, RI 33365"		credit_card	refunded	5/10/2024	dhl	pending	5/15/2024
+5d7675cf-fb0a-44f6-b7ae-b560e179e4db	9f186c15-dc4a-482f-892b-05a7651ecdda	788.42	5/26/2024	finished	"224 Grant Crossing
+Wardborough, WI 70563"	"68301 Kenneth Lakes
+North Robin, WI 42197"		amazon_pay	pending	5/26/2024	hermes	delivered	6/3/2024
+5fe9c466-b28a-43e8-90e7-7cc391b738f7	46c04e67-6092-4c40-af2d-6a1201ddfbd2	70.64	6/30/2024	finished	"31077 Alyssa Vista
+Mccannborough, VA 02470"	"PSC 0672, Box 1579
+APO AP 71219"		amazon_pay	paid	6/30/2024	amazon	delivered	7/7/2024
+90d81d76-310e-464d-b5ff-f20601a7ae52	0e9f304e-9047-44da-8d11-6555a31ce95e	977.49	6/30/2024	returned	"00723 Hayes Centers Apt. 233
+Rushport, AS 88800"	"77204 Victoria Prairie
+Desireeside, MN 68280"		klarna	refunded	6/30/2024	fedex	delivered	7/10/2024
+8046bef6-1a46-489e-b634-7610ba6ad59c	a685b10b-d9c0-4a6a-80eb-9b6d03fa5f91	282.37	6/13/2024	processing	"067 Krueger Island
+Dixonmouth, ND 31615"	"3331 Dana Causeway
+Ingramtown, IL 17384"		credit_card	pending	6/13/2024	gls	shipped	6/16/2024
+2f7867b4-a786-4a19-b713-09bbfd872a3d	a28e872a-851b-45a0-bbe3-f4b3ac879d9f	361.81	6/2/2024	finished	"7689 Gomez Plaza
+Johnsonville, MD 95701"	"8880 Cheryl Manor Suite 787
+Cooketown, MS 63798"		paypal	pending	6/2/2024	amazon	pending	6/4/2024
+4bc1d931-2e33-4283-a46c-800cabe5109c	54039ff7-90cc-47ca-8c2e-1d57d98f33f8	555.13	6/1/2024	finished	"900 Macias Manors
+Cruzside, IN 93363"	"72820 Andrew Roads
+Davilahaven, MO 23276"		paypal	paid	6/1/2024	gls	pending	6/5/2024
+f8b225e7-e14c-4aca-8055-00f90aa01c06	28cf81d1-de34-47a2-b5b6-660f02be45e1	923.22	5/22/2024	cancelled	"07079 Miller Garden Suite 819
+New Melissaborough, VA 93378"	"700 Price Summit Suite 298
+Andersonmouth, SD 75571"		klarna	pending	5/22/2024	amazon	pending	6/1/2024
+3d00183c-ac4c-407e-9987-adaeb4c8117f	c6f97bac-54d3-4da9-bbc8-6ca6e80c430a	157.56	6/21/2024	returned	"41004 Henderson Creek Suite 618
+Coxstad, SC 79036"	"214 Jeremy Circles Apt. 116
+South Andrea, IN 64351"		credit_card	refunded	6/21/2024	ups	shipped	7/1/2024
+6667472b-f35c-457d-bf53-b830e685f1cd	c6f97bac-54d3-4da9-bbc8-6ca6e80c430a	285.85	6/1/2024	cancelled	"8113 Edward Falls Apt. 480
+New Thomasstad, MH 95492"	"278 Lester Crossroad Suite 814
+Williamhaven, CT 92936"		klarna	refunded	6/1/2024	dhl	shipped	6/7/2024
+05887e2b-5e86-4d3c-8c5e-df0b63948e39	7b44f796-0948-471a-8942-d970d46a023a	567.92	5/7/2024	returned	"4263 Smith Ports Apt. 222
+South Katherinemouth, IA 81961"	"7691 Ryan Rapid Suite 903
+Lake Karen, NH 31327"		credit_card	refunded	5/7/2024	tnt	delivered	5/8/2024
+c025dd6b-753c-48b3-b2ee-e31d16e71941	cd2ba399-52dd-4bb4-be9f-3b19525c94c9	707.75	5/25/2024	processing	"938 Tanya Garden
+Gouldberg, MO 78144"	"02382 Patterson Unions
+Mcgeefurt, ID 77607"		amazon_pay	refunded	5/25/2024	fedex	shipped	6/1/2024
+cbfc9c59-726f-4d6b-b410-3c7c14db15d9	1eea9bec-d9fa-492f-8cfe-feb67731c971	893.42	5/9/2024	processing	"70912 Martin Mills Suite 493
+East Jason, MO 05676"	"PSC 2212, Box 8416
+APO AE 63883"		amazon_pay	refunded	5/9/2024	fedex	shipped	5/17/2024
+0a3cfcf1-a51e-452b-89e7-43c83b9e931d	5c253278-ec7b-4d02-8090-0a5421acb2bf	620.75	6/2/2024	returned	"814 Amanda Motorway Suite 935
+Daltonfort, PR 07386"	"PSC 6346, Box 0264
+APO AP 17094"		bank_transfer	pending	6/2/2024	fedex	delivered	6/12/2024
+63be7116-cddc-404b-8e9a-c43236a94fa4	3d02aa1b-9b30-49e4-ab29-b0f96a9cb2d7	726.39	6/6/2024	processing	"455 Anna Land Apt. 527
+East Mary, UT 18046"	"924 Kayla Cliff
+Johnnystad, KS 20273"		paypal	refunded	6/6/2024	fedex	shipped	6/11/2024
+985ed046-4adf-4cce-852c-0431a70280eb	c6f97bac-54d3-4da9-bbc8-6ca6e80c430a	793.61	6/25/2024	finished	"6255 Jeffrey Harbors
+New Ronaldmouth, GU 66877"	"530 Dustin Mills Suite 550
+Prestonville, KY 96939"		bank_transfer	pending	6/25/2024	dpd	pending	7/1/2024
+a58f03c8-1154-4e8c-bf19-15da03fe46a7	02848bd3-95c2-4075-8415-16c7e125ac0b	221.73	5/26/2024	processing	"503 Osborne Junctions Apt. 520
+Port Allisonburgh, LA 16568"	"06497 Price Gateway Apt. 796
+West Melissamouth, CA 05478"		bank_transfer	refunded	5/26/2024	dpd	shipped	5/30/2024
+c1c66b18-ad09-4433-b881-61300b4fd530	87332cd4-e4d7-439e-a773-141461dcf535	792.12	5/17/2024	cancelled	"7278 Erica Road Apt. 959
+North Christianmouth, WV 65447"	"741 Chung Parkways Suite 020
+Brianville, SC 99079"		paypal	pending	5/17/2024	gls	pending	5/26/2024
+d993fe81-f763-4c4b-a0ba-5460f4b83aa6	78b114e1-6cb5-4f6f-9862-ab59b79a410c	768.52	5/25/2024	processing	"38447 Young Inlet Apt. 089
+West Donna, MD 35745"	"022 Russell Corners Suite 732
+South Carrieborough, FM 49467"		klarna	pending	5/25/2024	dhl	delivered	5/28/2024
+99378108-4013-40bf-ba06-7beb4bd5b5e0	87332cd4-e4d7-439e-a773-141461dcf535	502.16	6/8/2024	cancelled	"460 Larson Run
+Darrylbury, AS 43949"	"88180 Jeremy Valley
+Hansonfurt, NH 83537"		amazon_pay	paid	6/8/2024	dhl	shipped	6/17/2024
+74a61b3b-ea7a-44dc-8168-29bb010f3387	5072509d-f1bd-4b8c-b819-d145fd83e4dc	987.35	6/4/2024	processing	"62351 Joshua Oval
+New Ethan, HI 23243"	"320 Taylor Mission
+East Ianfurt, LA 52574"		bank_transfer	pending	6/4/2024	ups	pending	6/9/2024
+27826d25-2c3d-46cf-b840-be3a97956086	af6c4cfe-16a3-4bf1-81ab-f8336eaac431	269.08	6/4/2024	cancelled	"USS Bonilla
+FPO AE 85266"	"USNV Kaiser
+FPO AA 64263"		bank_transfer	refunded	6/4/2024	fedex	shipped	6/10/2024
+dde4b8a1-d24c-474c-a112-ecf207f5e774	ac024b11-cd53-419a-9e4c-963231005804	245.19	6/6/2024	finished	"257 Marc Isle Apt. 226
+South Alisonstad, NC 78246"	"50009 Martin Greens
+New William, SD 09590"		klarna	refunded	6/6/2024	tnt	delivered	6/16/2024
+711157de-ccd3-467c-b7b5-23364b55be50	4af12eca-f300-4a5f-ad33-1bbbcb282ba4	339.14	6/17/2024	processing	"8179 Klein Lodge Apt. 447
+Hernandezchester, MT 05058"	"91673 Owens Mountains Apt. 093
+Peterside, UT 49870"		credit_card	refunded	6/17/2024	ups	pending	6/24/2024
+db8c2045-f19d-45fa-b675-c38d31363521	6cb5d8f2-5eea-4abe-9696-e59cbee326dc	530.42	7/2/2024	finished	"2244 Reed Fall Suite 513
+West Janet, CT 93941"	"7830 Rachel Road Suite 095
+Cooleyshire, VT 42100"		klarna	paid	7/2/2024	tnt	shipped	7/4/2024
+f166f987-3957-4eb1-a895-359d455177a5	ac024b11-cd53-419a-9e4c-963231005804	330.57	5/11/2024	finished	"5868 Serrano Rest
+New Jamesport, NH 96029"	"1284 Bates Summit
+Jenniferville, VT 56922"		bank_transfer	refunded	5/11/2024	gls	pending	5/16/2024
+67b6c923-0cb1-4c7f-a195-133512322d48	9cd594e5-517c-443d-9c26-bf4a5244969d	902.84	6/12/2024	finished	"684 Ashley Village
+North Destinyfort, RI 29770"	"6839 Carla Glens
+North Toddshire, LA 11933"		bank_transfer	pending	6/12/2024	dhl	pending	6/21/2024
+aed99107-b46d-46dd-9a34-a43964b4461d	1eea9bec-d9fa-492f-8cfe-feb67731c971	514.63	6/24/2024	cancelled	"64609 Laura Station Apt. 911
+East Ericland, AK 75398"	"056 James Manors Apt. 409
+East Matthew, NV 16238"		paypal	refunded	6/24/2024	dhl	shipped	7/3/2024
+cf026572-9060-4fd7-88c0-0d1610d5f933	87203b0c-2654-4fbe-8630-d5b3dff5ea32	610.29	6/2/2024	finished	"0494 Jennifer Keys
+West Mistyside, MD 63716"	"63471 Mark Stravenue Suite 724
+Port Gabrielburgh, IA 48121"		bank_transfer	paid	6/2/2024	gls	pending	6/9/2024
+8bdd1230-c649-44b2-9612-1178bb670638	c6f97bac-54d3-4da9-bbc8-6ca6e80c430a	681.28	5/23/2024	cancelled	"PSC 7551, Box 3238
+APO AA 79932"	"5740 Kyle Spring Suite 902
+New Thomas, DC 05977"		amazon_pay	refunded	5/23/2024	dhl	delivered	5/30/2024
+60015f25-3777-4d4f-a9a6-8245c69f3039	a1be9c34-59a1-458e-bb39-0f7edbc4d4ff	690.44	5/17/2024	cancelled	"2409 Jordan Knoll Apt. 556
+Wardton, OK 24407"	"4602 Michael Islands Apt. 520
+Lake Monica, CO 63209"		klarna	pending	5/17/2024	tnt	delivered	5/25/2024
+c23ebad1-7c02-40a5-9623-103f5ae0737f	c4c24350-c2e5-4823-9b75-e2c3c785468a	271.91	6/3/2024	processing	"465 Hardy Cape
+Lake Brandonshire, IA 81984"	"5804 Adams Mountains
+Marshallberg, VI 77020"		bank_transfer	pending	6/3/2024	dhl	shipped	6/12/2024
+1bc33fa9-2009-4b90-bd0b-68111faa7b54	58a70824-219d-451f-8e62-dccbea9e77f1	427.06	6/28/2024	finished	"896 Christopher Spring
+Lake Alexander, NV 70705"	"4172 Armstrong Path
+Kennedybury, KS 36090"		bank_transfer	refunded	6/28/2024	tnt	shipped	7/8/2024
+af0945d1-c8c7-486e-aab4-1f97d0528d1f	6ab4d9e9-87f4-4a90-ae73-ecfdddf09412	588.45	5/29/2024	returned	"USCGC Taylor
+FPO AA 87965"	"814 Wagner Glen
+Ryanhaven, VA 55648"		amazon_pay	paid	5/29/2024	gls	pending	6/6/2024
+1359a623-8ee0-44cc-bd6a-d16874cfe7a9	8ad99248-63ff-44d6-a493-1fa072bab6b7	652	5/29/2024	returned	"USS Ramirez
+FPO AP 02985"	"0824 Billy Via Suite 965
+Lake Jeremytown, WY 25733"		credit_card	pending	5/29/2024	fedex	pending	6/4/2024
+c9f5fc60-9b65-4c0f-a8d3-fa5109d91952	af6c4cfe-16a3-4bf1-81ab-f8336eaac431	869.76	6/4/2024	processing	"55887 Warren Light
+Lauraview, IN 84236"	"97168 Ruben Ramp Apt. 091
+New Roy, NM 44845"		klarna	pending	6/4/2024	gls	pending	6/10/2024
+b8b24889-42e2-4b33-9d57-440010497723	318de0ba-24db-4117-895c-21446d1606d4	906.03	5/18/2024	returned	"03177 Nicholas Views Apt. 141
+Harthaven, WY 64896"	"PSC 0095, Box 0827
+APO AE 69279"		bank_transfer	pending	5/18/2024	dpd	shipped	5/21/2024
+3763a126-cc29-497f-8b1d-58b99e8661b3	aade8f84-5351-4003-ba02-d5af784f4384	268.67	5/23/2024	cancelled	"USS Cruz
+FPO AE 54656"	"79370 Ball Junctions
+Phillipstown, DE 74856"		bank_transfer	pending	5/23/2024	dpd	delivered	5/31/2024
+a44149d8-18e6-490c-b491-ed57e5bd59c0	9f186c15-dc4a-482f-892b-05a7651ecdda	157.03	6/7/2024	processing	"09483 Alicia Mill Apt. 692
+South Stevenfurt, AS 29802"	"6758 Goodman Vista Apt. 444
+Paultown, SD 39978"		bank_transfer	refunded	6/7/2024	dhl	shipped	6/9/2024
+7edc054e-39ae-4262-8d75-27edf9988467	a28e872a-851b-45a0-bbe3-f4b3ac879d9f	352.88	5/9/2024	returned	"6596 Dawn Rapid
+Newmanton, DC 02269"	"4795 Schwartz Garden Suite 037
+East Nancymouth, PW 11485"		credit_card	refunded	5/9/2024	tnt	delivered	5/12/2024
+2754e50d-f53c-44cd-9ec9-63bb76c881d5	d7d77148-04a1-4d2c-a951-92e2b6b12d19	899.59	5/31/2024	cancelled	"01999 Michael Points Suite 446
+Harrismouth, OR 48002"	"73615 Steven Walks
+New Steven, NM 77973"		credit_card	paid	5/31/2024	tnt	pending	6/1/2024
+f6c0ec51-af7d-4425-9967-2ae599cd1caa	ff37a4c4-d690-4b0c-b0a5-dc7e8e3f61f3	590.69	5/21/2024	finished	"15777 Marilyn Estates
+Michaelshire, PW 87027"	"33620 Hill Grove
+Mitchellborough, NC 83296"		amazon_pay	pending	5/21/2024	amazon	shipped	5/26/2024
+f6b3091d-495a-4238-89c4-829046c51def	6ab4d9e9-87f4-4a90-ae73-ecfdddf09412	606.57	6/10/2024	returned	"0332 Michelle Bypass Apt. 383
+Port Austinfurt, VT 24931"	"73526 Bell Bridge Apt. 582
+North Amanda, MP 52144"		credit_card	pending	6/10/2024	tnt	delivered	6/18/2024
+55d7b1da-9983-46d2-a7b1-9910766b6449	4a79ec75-b3e2-449a-9e59-696ccd900a46	265.08	6/29/2024	returned	"44906 Brewer Well Suite 278
+Lake Steven, NE 26485"	"165 Pierce Trace
+Jacksonview, ME 78514"		klarna	pending	6/29/2024	hermes	pending	7/4/2024
+35137415-7ade-4d4e-8e0c-98823c838467	3dceb5aa-f043-4906-a2da-24168f46522c	787.59	7/3/2024	returned	"PSC 5511, Box 9028
+APO AP 53186"	"1723 John Throughway Suite 753
+Albertville, CA 48942"		klarna	pending	7/3/2024	gls	delivered	7/12/2024
+cda6aa6e-89b2-4a86-91a4-888f480cce5b	624f4dec-5294-419c-a4b9-3a2836538453	610.4	5/24/2024	finished	"93792 Danny Mount
+Scottfurt, IL 98416"	"215 Sarah Vista
+New Jasonview, IN 27300"		klarna	refunded	5/24/2024	fedex	pending	5/31/2024
+58a3956b-fead-432d-9852-868abc5c40c0	2bf271fb-6c53-4755-b3ad-fbe66c2e30d6	126.82	6/26/2024	cancelled	"2334 Dunn Loaf
+Williamsstad, IA 45226"	"11124 Deborah Burgs
+New Jacquelinemouth, VT 88256"		klarna	refunded	6/26/2024	dpd	pending	7/6/2024
+1da06a21-63db-471e-9707-8d2e00f80670	7b44f796-0948-471a-8942-d970d46a023a	354.65	5/25/2024	finished	"1904 French Trafficway Apt. 434
+Stevenborough, VA 03760"	"6592 Mccoy Locks
+Anthonyton, WA 53133"		paypal	paid	5/25/2024	fedex	pending	5/28/2024
